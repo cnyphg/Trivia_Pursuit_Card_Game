@@ -63,7 +63,7 @@ void initializeDefaultPlayers() {
     srand(static_cast<unsigned>(time(0))); // Seed the random number generator
 
     // Read questions from CSV file
-    list<string> questions = readQuestionsFromCSV("APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questions_only.csv");
+    list<string> questions = readQuestionsFromCSV("questions_only.csv");
     if (questions.size() < 3) {
         cerr << "Not enough questions in the CSV file." << endl;
         return;
