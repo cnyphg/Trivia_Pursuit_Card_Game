@@ -1,6 +1,6 @@
 //questionDeck.cpp
 
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questionDeck.h"
+#include "questionDeck.h"
 using namespace std;
 
 questionDeck::questionDeck(const questionList& list) : qlist(list) {
