@@ -15,7 +15,7 @@ int main() {
     string name;
         // Access the question.csv files
         questionList qlist;
-        if (!qlist.readQuestionsFromFile("APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questions.csv", qlist)) {
+        if (!qlist.readQuestionsFromFile("questions.csv", qlist)) {
             cerr << "Failed to read questions from file." << endl;
             return 1;
         }
