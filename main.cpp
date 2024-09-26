@@ -1,8 +1,8 @@
 // main.cpp
 
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_game.h"
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_Student.h"
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_Student_Ranking.h"
+#include "game.h"
+#include "Student.h"
+#include "Student_Ranking.h"
 #include <iostream>
 #include <iomanip>
 #include <string>
