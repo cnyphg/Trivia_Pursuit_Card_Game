@@ -6,7 +6,7 @@
 #include <string>
 #include <list>
 #include <chrono> // Library for time measurement
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_Student_Ranking.h"
+#include "Student_Ranking.h"
 
 using namespace std;
 
