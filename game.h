@@ -10,10 +10,10 @@
 #include <memory>
 using namespace std;
 
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questions.cpp"
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questionDeck.cpp"
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_Student.h"
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_Student_Ranking.h"
+#include "questions.cpp"
+#include "questionDeck.cpp"
+#include "Student.h"
+#include "Student_Ranking.h"
 
 void getStudentDetails();
 void displayGameRules();
