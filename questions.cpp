@@ -1,4 +1,4 @@
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questions.h"
+#include "questions.h"
 
 question* questionList::createNewNode(const string& quest, const string& opt, const string& ans) {
     return new question{ quest, opt, ans, nullptr };
