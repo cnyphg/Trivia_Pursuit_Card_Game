@@ -3,7 +3,7 @@
 #ifndef QUESTIONDECK_H
 #define QUESTIONDECK_H
 
-#include "APDSTR2309_TP071936_TP072003_TP066130_TP065652_TP072011_questions.h"
+#include "questions.h"
 #include <cstdlib>
 #include <ctime>
 #include <unordered_set>
